@@ -1,6 +1,8 @@
 # Astroid  
 A revised vision from https://www.packtpub.com/game-development/android-game-programming-example  
 
+In this game, you can control a starship to shoot the asteroids and survive
+
 Fix two major bugs:  
 
 1. add saving game records  
